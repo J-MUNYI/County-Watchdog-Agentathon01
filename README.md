@@ -31,4 +31,5 @@ View your app in AI Studio: https://ai.studio/apps/be55237e-6db3-4d93-b189-1a1bd
 - Benard
 - Leonard
 - Wilfred
+
 All team members worked in collaboration in helping come up with the structure and implementation of Watchdog
