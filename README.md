@@ -12,7 +12,7 @@ County budgets are bulky documents and time consuming to go through each one of 
 
 This contains everything you need to run your app locally.
 
-View the app in AI Studio: **[Link] (https://county-budget-watchdog-153469400449.europe-west2.run.app/) **
+View the app in AI Studio: ** [Watchdog] (https://county-budget-watchdog-153469400449.europe-west2.run.app/) **
 
 ## Run Locally
 
